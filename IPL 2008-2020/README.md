@@ -1,8 +1,10 @@
 ## IPL 2008-2020
 
-Dataset used: IPL Matches 2008-2020.csv
-Dataset link : https://www.kaggle.com/patrickb1912/ipl-complete-dataset-20082020?select=IPL+Matches+2008-2020.csv
-Google Colab link : https://colab.research.google.com/drive/1EaMuPt6lSL4xNgQq9RRlg4nYW3Rg_Up9?usp=sharing
+Dataset used: IPL Matches 2008-2020.csv.
+
+Dataset link : https://www.kaggle.com/patrickb1912/ipl-complete-dataset-20082020?select=IPL+Matches+2008-2020.csv.
+
+Google Colab link : https://colab.research.google.com/drive/1EaMuPt6lSL4xNgQq9RRlg4nYW3Rg_Up9?usp=sharing.
 
 
 #### Importing the required Libraries
